@@ -1,0 +1,8 @@
+# === Build artifacts ===
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
